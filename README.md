@@ -2,7 +2,9 @@
 ### 🧠 Advanced Emotional + System Control AI Assistant
 
 ---
-
+---
+![App Screenshot](zara_ai_avtar.png)
+---
 ## 🌟 “Not Just a Bot — A Complete AI Operating Companion”
 
 **ZARA AI AGENT** is a next-generation intelligent AI system created by **Pranjal Gupta**, designed to behave like a **personal digital assistant, system controller, emotional companion, and automation engine** — all in one powerful framework.
@@ -167,7 +169,9 @@ Pranjal Gupta
 AI Builder | Automation Developer 
 
  GitHub: @pranjal-ai-coder
+ 
 🟥 Final Note
+
 🌟 “Not Just a Bot — A Complete AI Operating Companion”
 
 System Online.
