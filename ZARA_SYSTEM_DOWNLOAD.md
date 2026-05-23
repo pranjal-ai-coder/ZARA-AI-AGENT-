@@ -46,8 +46,17 @@ DOWNLOAD LINK: (https://drive.google.com/file/d/15IHSsmmR4hVi4JiaQ1vBzNGp__GBhqV
 - 🪟 Recommended for Windows systems  
 - 📁 Keep all extracted files inside the same folder  
 - 🚫 Do not modify core directories unless required  
+---
+
+## ⚠️ IMPORTANT SYSTEM NOTICE
+
+- 🔐 During first-time setup, if Gemini login is skipped or not completed properly, the AI memory system will NOT initialize.  
+- 🧠 In that case, permanent memory and session storage features will remain inactive.  
+- 🚫 This setup option is shown only once for security reasons and cannot be re-triggered later.  
+- 🔄 If this step is missed, a full reinstall of the system package will be required to reinitialize memory and setup flow.
 
 ---
+
 
 # 🤖 ZARA AI AGENT
 **Advanced Experimental AI System**
