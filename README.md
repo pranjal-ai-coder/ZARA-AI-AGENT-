@@ -164,21 +164,26 @@ ZARA understands natural language commands like:
 
 ---
 
-👨‍💻 Architect
-Pranjal Gupta
-AI Builder | Automation Developer 
 
- GitHub: @pranjal-ai-coder
- 
-🟥 Final Note
+# 👨‍💻 ARCHITECT
 
-🌟 “Not Just a Bot — A Complete AI Operating Companion”
+**Pranjal Gupta**  
+AI Builder | Automation Developer  
 
-System Online.
+GitHub: @pranjal-ai-coder  
 
-Made with ❤️ by Pranjal Gupta
-```python
-### [ZARA_CORE_LOGIC]
+---
+
+# 🟥 FINAL NOTE
+
+🌟 “Not Just a Bot — A Complete AI Operating Companion”  
+
+System Online.  
+Made with ❤️ by Pranjal Gupta  
+
+---
+
+# ⚙️ ZARA CORE LOGIC
 
 - Identity: ZARA (Advanced AI Assistant)
 - Personality: Cute, emotional, loyal, confident, playful
