@@ -13,7 +13,16 @@ It is not a normal chatbot.
 It is a **living AI-style assistant system** with memory, personality, and system-level control capabilities.
 
 ---
+## 🌐 Live Demo / Web Access
 
+🚀 Try the live version of ZARA AI AGENT here:
+
+🔗 https://zara-ai-agent-cinema-k75i.bolt.host
+
+---
+
+⚡ This is the interactive web version of ZARA AI system showcasing core AI behavior and interface.
+---
 # 👩‍💻 CORE IDENTITY
 
 - 🤖 Name: **ZARA**
